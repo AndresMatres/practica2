@@ -1,0 +1,5 @@
+	Cleaning			Mapping			Deduplication
+samples	total raw reads	total clean reads	% remaining reads after cleaning	Primary alignments (clean reads mapped and properly paired)	% of Remaining clean reads from mapping	Number of extra alignments	Primary alignments (properly mapped reads, deduplicated)	% of remaining clean reads from mapping and deduplication	Number of extra alignments, deduplicated	% of Remaining secondary alignments from deduplication		% of remaning reads from raw reads
+Nt1_S1	55252796	46562613	0.84	93340	0.0	338353	23966	0.0	73800	0.22		0.0
+Nt2_S2	115704518	95633756	0.83	191634	0.0	690385	41134	0.0	107635	0.16		0.0
+Nt3_S3	102375948	78425828	0.77	157700	0.0	587374	38054	0.0	119169	0.2		0.0

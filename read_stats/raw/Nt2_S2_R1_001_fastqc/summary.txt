@@ -1,0 +1,11 @@
+PASS	Basic Statistics	Nt2_S2_R1_001.fastq.gz
+PASS	Per base sequence quality	Nt2_S2_R1_001.fastq.gz
+PASS	Per tile sequence quality	Nt2_S2_R1_001.fastq.gz
+PASS	Per sequence quality scores	Nt2_S2_R1_001.fastq.gz
+FAIL	Per base sequence content	Nt2_S2_R1_001.fastq.gz
+PASS	Per sequence GC content	Nt2_S2_R1_001.fastq.gz
+PASS	Per base N content	Nt2_S2_R1_001.fastq.gz
+WARN	Sequence Length Distribution	Nt2_S2_R1_001.fastq.gz
+FAIL	Sequence Duplication Levels	Nt2_S2_R1_001.fastq.gz
+PASS	Overrepresented sequences	Nt2_S2_R1_001.fastq.gz
+FAIL	Adapter Content	Nt2_S2_R1_001.fastq.gz
