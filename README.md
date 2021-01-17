@@ -1,0 +1,1 @@
+Obtain stats form reads after cleaning, mapping and deduplication
